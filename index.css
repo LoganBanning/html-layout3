@@ -1,0 +1,33 @@
+header {
+  height: 200px;
+  width: 90vw;
+  border: 5px black solid;
+  margin: 2vw;
+}
+.purple-rec {
+  width: 40px;
+  height: 120px;
+  background-color: purple;
+  margin-top: 70px;
+  margin-left: 10px;
+
+}
+.green-rec {
+  width: 400px;
+  height: 180px;
+  background-color: green;
+  margin-left: 100px;
+  position: relative;
+  bottom: 180px;
+}
+.blue-circle {
+  width: 180px;
+  height: 180px;
+  background-color: rgb(133, 181, 197);
+  border-radius: 50%;
+  display: flex; 
+  float: right; 
+  position: relative;
+  bottom: 360px;
+  right: 400px;
+}
