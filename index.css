@@ -31,3 +31,36 @@ header {
   bottom: 360px;
   right: 400px;
 }
+main {
+  border: 5px black dotted;
+  height: 250px;
+  width: 90vw;
+  margin: 2vw;
+  padding-top: 40px;
+}
+.tan-box {
+  height: 200px;
+  width: 75vw;
+  background-color: rgb(236, 198, 147);
+  position: absolute;
+  left: 12.5vw;
+  margin: auto;
+  box-shadow: 10px 10px 10px 0;
+} 
+footer {
+  height: 250px;
+  width: 500px;
+  border: 1px gray solid;
+  margin: auto;
+  box-shadow: 3px 3px 3px;
+  margin-bottom: 20px;
+}
+.footer-p {
+  color: navy;
+  margin: auto;
+  text-align: center;
+  padding: 15%;
+  font-size: x-large;
+  letter-spacing: 5px;
+  font-weight: bold;
+}
